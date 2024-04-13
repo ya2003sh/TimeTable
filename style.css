@@ -1,0 +1,19 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 8px;
+}
+
+h1{
+    margin-top: 20px;
+    text-align: left;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.row-lunch{
+    font-weight: 600;
+    font-size: 50px;
+}
+
